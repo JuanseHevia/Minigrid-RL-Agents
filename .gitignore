@@ -1,0 +1,7 @@
+*.pdf
+wandb/
+runs/
+models/
+GIF/
+.vscode
+*.pkl
