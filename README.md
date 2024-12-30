@@ -1,5 +1,5 @@
 
-# COMP552 Reinforcement Learning - Homework 5
+# Reinforcement Learning Project - Minigrid Environments using PPO
 
 This repository contains work completed for the course **COMP552 Reinforcement Learning** at Rice University. The goal of this project is to explore and implement various reinforcement learning algorithms in custom environments to solve open-ended tasks. The tasks are based on the Minigrid Unlock environment and progressively increase in complexity.
 
